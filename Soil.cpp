@@ -1,6 +1,6 @@
 const int soilPin = A0;
 const int MP = 13;
-const int dryThreshold = 500;
+const int dryThreshold = 100;
 const int LP = 9;
 const int trig = 8;
 const int echo = 7;
